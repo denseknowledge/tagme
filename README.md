@@ -1,5 +1,5 @@
 # tagme
-tagme is a secret weapon!
+tagme is a secret!
 
 Now, let's starting working on the *develop* branch.
 
